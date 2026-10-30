@@ -6,9 +6,9 @@ Roblox game synced into Studio with [Rojo](https://rojo.space).
 
 | Folder        | Goes to in Studio                                |
 |---------------|--------------------------------------------------|
-| `src/server`  | ServerScriptService → Server                     |
-| `src/client`  | StarterPlayer → StarterPlayerScripts → Client    |
-| `src/shared`  | ReplicatedStorage → Shared                       |
+| `src/server`  | ServerScriptService → RojoServer                     |
+| `src/client`  | StarterPlayer → StarterPlayerScripts → RojoClient    |
+| `src/shared`  | ReplicatedStorage → RojoShared                       |
 
 ## Sync into Studio
 

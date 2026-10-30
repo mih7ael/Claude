@@ -3,19 +3,22 @@
   "tree": {
     "$className": "DataModel",
     "ReplicatedStorage": {
-      "Shared": {
-        "$path": "src/shared"
+      "RojoShared": {
+        "$path": "src/shared",
+        "$ignoreUnknownInstances": true
       }
     },
     "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
+      "RojoServer": {
+        "$path": "src/server",
+        "$ignoreUnknownInstances": true
       }
     },
     "StarterPlayer": {
       "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
+        "RojoClient": {
+          "$path": "src/client",
+          "$ignoreUnknownInstances": true
         }
       }
     }
