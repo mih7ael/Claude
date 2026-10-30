@@ -14,3 +14,7 @@ Roblox game synced into Studio with [Rojo](https://rojo.space).
 
 1. `rojo serve` in this folder
 2. In Studio: Plugins → Rojo → Connect
+
+## `studio/`
+
+Code to paste by hand into existing scripts in Studio (not synced by Rojo).
