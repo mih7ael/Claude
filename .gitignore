@@ -5,3 +5,6 @@
 *.rbxm
 *.rbxmx
 sourcemap.json
+
+# admin panel files (licensed, not for uploading) and game scripts stay local
+admin-panel/
